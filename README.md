@@ -1,0 +1,1 @@
+### This project is a simple ATM machine application implemented in Java. It allows users to perform basic banking operations such as checking their balance, depositing funds, and withdrawing funds. The application incorporates error handling to provide appropriate error messages for scenarios such as invalid input or insufficient funds.
